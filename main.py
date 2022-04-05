@@ -1,5 +1,3 @@
-
-   
 def hello():
     print("hi")
 
