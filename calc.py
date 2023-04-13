@@ -1,2 +1,2 @@
-def add(x,y):
+def add_new(x,y):
     return x+y
