@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
-      - run: python -m unittest tests
+      - run: python -m unittest test
